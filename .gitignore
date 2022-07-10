@@ -1,0 +1,8 @@
+*.py[a-z]
+*.sqlite3
+*docker*
+.misc
+.idea
+.env
+venv
+rest
